@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiMasivian.Bussiness\ApiMasivian.Bussiness.csproj" />
+    <ProjectReference Include="..\ApiMasivian.DataAccess.Contracts\ApiMasivian.DataAccess.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

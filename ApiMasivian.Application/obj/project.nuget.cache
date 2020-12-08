@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gicli54rc9HwZ1s1SEImTmRHxg1/iDt2rZ/Aq92+SPNHxcEbuUPmwF//6SFy179DgNi//4fix0Lf9fbw7bKecw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\API MASIVIAN\\ApiMasivian.Application\\ApiMasivian.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

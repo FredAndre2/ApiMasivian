@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ApiMasivian.Bussiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ApiMasivian.Bussiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiMasivian.Bussiness.dll": {}
+        }
+      },
+      "ApiMasivian.DataAccess.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ApiMasivian.Bussiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ApiMasivian.DataAccess.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiMasivian.DataAccess.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiMasivian.Bussiness/1.0.0": {
+      "type": "project",
+      "path": "../ApiMasivian.Bussiness/ApiMasivian.Bussiness.csproj",
+      "msbuildProject": "../ApiMasivian.Bussiness/ApiMasivian.Bussiness.csproj"
+    },
+    "ApiMasivian.DataAccess.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../ApiMasivian.DataAccess.Contracts/ApiMasivian.DataAccess.Contracts.csproj",
+      "msbuildProject": "../ApiMasivian.DataAccess.Contracts/ApiMasivian.DataAccess.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ApiMasivian.Bussiness >= 1.0.0",
+      "ApiMasivian.DataAccess.Contracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Documents\\API MASIVIAN\\ApiMasivian.Application.Contracts\\ApiMasivian.Application.Contracts.csproj",
+      "projectName": "ApiMasivian.Application.Contracts",
+      "projectPath": "C:\\Users\\user\\Documents\\API MASIVIAN\\ApiMasivian.Application.Contracts\\ApiMasivian.Application.Contracts.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\API MASIVIAN\\ApiMasivian.Application.Contracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\user\\Documents\\API MASIVIAN\\ApiMasivian.Bussiness\\ApiMasivian.Bussiness.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\API MASIVIAN\\ApiMasivian.Bussiness\\ApiMasivian.Bussiness.csproj"
+            },
+            "C:\\Users\\user\\Documents\\API MASIVIAN\\ApiMasivian.DataAccess.Contracts\\ApiMasivian.DataAccess.Contracts.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\API MASIVIAN\\ApiMasivian.DataAccess.Contracts\\ApiMasivian.DataAccess.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

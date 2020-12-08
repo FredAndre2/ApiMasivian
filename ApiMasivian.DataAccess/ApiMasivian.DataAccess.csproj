@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EasyCaching.Core" Version="0.8.8" />
+    <PackageReference Include="EasyCaching.Redis" Version="0.8.8" />
+    <PackageReference Include="MySql.Data" Version="8.0.22" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiMasivian.DataAccess.Contracts\ApiMasivian.DataAccess.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

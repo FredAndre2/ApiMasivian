@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ApiMasivian.Application.Contracts/1.0.0": {
+        "dependencies": {
+          "ApiMasivian.Bussiness": "1.0.0",
+          "ApiMasivian.DataAccess.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "ApiMasivian.Application.Contracts.dll": {}
+        }
+      },
+      "ApiMasivian.Bussiness/1.0.0": {
+        "runtime": {
+          "ApiMasivian.Bussiness.dll": {}
+        }
+      },
+      "ApiMasivian.DataAccess.Contracts/1.0.0": {
+        "dependencies": {
+          "ApiMasivian.Bussiness": "1.0.0"
+        },
+        "runtime": {
+          "ApiMasivian.DataAccess.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiMasivian.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiMasivian.Bussiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiMasivian.DataAccess.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

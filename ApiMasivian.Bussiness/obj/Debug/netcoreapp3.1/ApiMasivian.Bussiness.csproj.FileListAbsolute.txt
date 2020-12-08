@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ApiMasivian.Bussiness\bin\Debug\netcoreapp3.1\ApiMasivian.Bussiness.deps.json
+C:\Users\user\source\repos\ApiMasivian.Bussiness\bin\Debug\netcoreapp3.1\ApiMasivian.Bussiness.dll
+C:\Users\user\source\repos\ApiMasivian.Bussiness\bin\Debug\netcoreapp3.1\ApiMasivian.Bussiness.pdb
+C:\Users\user\source\repos\ApiMasivian.Bussiness\obj\Debug\netcoreapp3.1\ApiMasivian.Bussiness.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ApiMasivian.Bussiness\obj\Debug\netcoreapp3.1\ApiMasivian.Bussiness.AssemblyInfo.cs
+C:\Users\user\source\repos\ApiMasivian.Bussiness\obj\Debug\netcoreapp3.1\ApiMasivian.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ApiMasivian.Bussiness\obj\Debug\netcoreapp3.1\ApiMasivian.Bussiness.dll
+C:\Users\user\source\repos\ApiMasivian.Bussiness\obj\Debug\netcoreapp3.1\ApiMasivian.Bussiness.pdb
+C:\Users\user\source\repos\ApiMasivian.Bussiness\obj\Debug\netcoreapp3.1\ApiMasivian.Bussiness.csprojAssemblyReference.cache

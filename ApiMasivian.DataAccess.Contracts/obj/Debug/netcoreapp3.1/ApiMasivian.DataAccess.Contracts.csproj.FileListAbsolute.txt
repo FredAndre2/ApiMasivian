@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\bin\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.deps.json
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\bin\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.dll
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\bin\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.pdb
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\bin\Debug\netcoreapp3.1\ApiMasivian.Bussiness.dll
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\bin\Debug\netcoreapp3.1\ApiMasivian.Bussiness.pdb
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\obj\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\obj\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\obj\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.AssemblyInfo.cs
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\obj\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\obj\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.csproj.CopyComplete
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\obj\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.dll
+C:\Users\user\source\repos\ApiMasivian.DataAccess.Contracts\obj\Debug\netcoreapp3.1\ApiMasivian.DataAccess.Contracts.pdb
